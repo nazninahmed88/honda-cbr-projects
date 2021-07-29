@@ -1,0 +1,46 @@
+.btn-header{
+    border: none;
+    background-color: #E76F51;
+    padding: 0px 10px;
+    
+}
+.btn-color{
+    background-color: #E76F51;
+    text-decoration: none;
+    padding: 7px 25px;
+    border: none;
+    
+}
+.tittle-color{
+    color: #E76F51;
+}
+ .gray-img{
+    filter: grayscale(100%);
+} 
+.featured-bike-img{
+    width: 288px;
+    height: 243px;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
+
+.img-card{
+    border-radius: 50%;
+}
+.icon-active{ 
+    color: #E77C40;
+}
+.icon-empty{
+    color: #E77C40;
+}
+.card-img{
+    background-color: rgb(214, 213, 213);
+}
+.btn{
+    background-color:#E76F51 ;
+}
+
+
+
+    
